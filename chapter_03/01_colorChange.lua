@@ -1,4 +1,4 @@
-local colorBlock = game.Workspace.ColorPart -- colorBrick 변수에 ColorPart 담기
+local colorBlock = game.Workspace.ColorPart -- colorBlock 변수에 ColorPart 담기
 
 local red = Color3.fromRGB(255 ,0, 0) -- red 변수에 빨간색 담기
 local green = Color3.fromRGB(0, 255, 0) -- green 변수에 초록색 담기
