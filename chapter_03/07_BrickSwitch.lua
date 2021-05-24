@@ -21,5 +21,5 @@ while true do  --while문 설정 조건을 참(true)로 고정, 무한히 반복
         brick.Material = "Plastic"  --조건1과 조건2가 모두 거짓이면 ShiningPart의 재질(Material)을 플라스틱(Plastic)으로 변경
     end
     
-timeVal = timeVal + 1  --timeVal의 값에 1을 더한 후 timeVal변수에 저장
+    timeVal = timeVal + 1  --timeVal의 값에 1을 더한 후 timeVal변수에 저장
 end
