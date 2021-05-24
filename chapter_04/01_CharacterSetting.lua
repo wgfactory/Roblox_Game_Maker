@@ -24,4 +24,4 @@ end
 
 hum.Running:Connect(lavaDamage)  --캐릭터가 이동(=Running)하면 lavaDamage실행
 
-hum.Swimming:Connect(springHeal)  --캐릭터가 수영(=Swimming)하면 springHeal )실행
+hum.Swimming:Connect(springHeal)  --캐릭터가 수영(=Swimming)하면 springHeal실행
